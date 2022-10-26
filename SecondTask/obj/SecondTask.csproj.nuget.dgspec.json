@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/immortal1307/Desktop/HomeWork3/FirstTask/FirstTask.csproj": {}
+    "/Users/immortal1307/Desktop/HomeWork3/SecondTask/SecondTask.csproj": {}
   },
   "projects": {
-    "/Users/immortal1307/Desktop/HomeWork3/FirstTask/FirstTask.csproj": {
+    "/Users/immortal1307/Desktop/HomeWork3/SecondTask/SecondTask.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/immortal1307/Desktop/HomeWork3/FirstTask/FirstTask.csproj",
-        "projectName": "FirstTask",
-        "projectPath": "/Users/immortal1307/Desktop/HomeWork3/FirstTask/FirstTask.csproj",
+        "projectUniqueName": "/Users/immortal1307/Desktop/HomeWork3/SecondTask/SecondTask.csproj",
+        "projectName": "SecondTask",
+        "projectPath": "/Users/immortal1307/Desktop/HomeWork3/SecondTask/SecondTask.csproj",
         "packagesPath": "/Users/immortal1307/.nuget/packages/",
-        "outputPath": "/Users/immortal1307/Desktop/HomeWork3/FirstTask/obj/",
+        "outputPath": "/Users/immortal1307/Desktop/HomeWork3/SecondTask/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/immortal1307/.nuget/NuGet/NuGet.Config"

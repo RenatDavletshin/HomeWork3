@@ -6,15 +6,15 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v6.0": {
-      "FirstTask/1.0.0": {
+      "ThirdTask/1.0.0": {
         "runtime": {
-          "FirstTask.dll": {}
+          "ThirdTask.dll": {}
         }
       }
     }
   },
   "libraries": {
-    "FirstTask/1.0.0": {
+    "ThirdTask/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
